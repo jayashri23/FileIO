@@ -10,7 +10,6 @@ public class EmployeePayrollData {
         this.empId =id;
         this.empSalary=salary;
     }
-
     @Override
     public String toString() {
         return "EmployeePayrollData{" +
